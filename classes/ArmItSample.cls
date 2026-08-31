@@ -1,5 +1,3 @@
 public class ArmItSample {
-    public static String hello() {
-        return 'Hello v3 from ARM integration test';
-    }
+    public static Integer echo(Integer input) { return 1; }
 }
