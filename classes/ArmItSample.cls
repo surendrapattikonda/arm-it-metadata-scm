@@ -1,3 +1,5 @@
 public class ArmItSample {
-    public static Integer echo(Integer input) { return 1; }
+    public static String ping() {
+        return 'sample';
+    }
 }
