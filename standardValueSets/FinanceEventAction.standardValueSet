@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Post an invoice</fullName>
+        <default>false</default>
+        <label>Post an invoice</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Void an invoice</fullName>
+        <default>false</default>
+        <label>Void an invoice</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Cancel &amp; rebill</fullName>
+        <default>false</default>
+        <label>Cancel &amp; rebill</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Convert negative invoice lines</fullName>
+        <default>false</default>
+        <label>Convert negative invoice lines</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Subtotal change on sub invoice line</fullName>
+        <default>false</default>
+        <label>Subtotal change on sub invoice line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Tax change on sub invoice line</fullName>
+        <default>false</default>
+        <label>Tax change on sub invoice line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Invoice line reference changed on sub invoice line</fullName>
+        <default>false</default>
+        <label>Invoice line reference changed on sub invoice line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Currency change on sub invoice line</fullName>
+        <default>false</default>
+        <label>Currency change on sub invoice line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Credit invoice header</fullName>
+        <default>false</default>
+        <label>Credit invoice header</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate credit from invoice header</fullName>
+        <default>false</default>
+        <label>Unallocate credit from invoice header</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Credit invoice line</fullName>
+        <default>false</default>
+        <label>Credit invoice line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate credit from invoice line</fullName>
+        <default>false</default>
+        <label>Unallocate credit from invoice line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Pay invoice header</fullName>
+        <default>false</default>
+        <label>Pay invoice header</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate payment from invoice header</fullName>
+        <default>false</default>
+        <label>Unallocate payment from invoice header</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Pay invoice line</fullName>
+        <default>false</default>
+        <label>Pay invoice line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate payment from invoice line</fullName>
+        <default>false</default>
+        <label>Unallocate payment from invoice line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Debit invoice header</fullName>
+        <default>false</default>
+        <label>Debit invoice header</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate debit from invoice header</fullName>
+        <default>false</default>
+        <label>Unallocate debit from invoice header</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Debit invoice line</fullName>
+        <default>false</default>
+        <label>Debit invoice line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate debit from invoice line</fullName>
+        <default>false</default>
+        <label>Unallocate debit from invoice line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Issue a standalone credit</fullName>
+        <default>false</default>
+        <label>Issue a standalone credit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Void a standalone credit</fullName>
+        <default>false</default>
+        <label>Void a standalone credit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Refund a credit memo header</fullName>
+        <default>false</default>
+        <label>Refund a credit memo header</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate refund from credit memo header</fullName>
+        <default>false</default>
+        <label>Unallocate refund from credit memo header</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Refund a credit memo line</fullName>
+        <default>false</default>
+        <label>Refund a credit memo line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate refund from credit memo line</fullName>
+        <default>false</default>
+        <label>Unallocate refund from credit memo line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Debit credit memo header</fullName>
+        <default>false</default>
+        <label>Debit credit memo header</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate debit from credit memo header</fullName>
+        <default>false</default>
+        <label>Unallocate debit from credit memo header</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Debit credit memo line</fullName>
+        <default>false</default>
+        <label>Debit credit memo line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate debit from credit memo line</fullName>
+        <default>false</default>
+        <label>Unallocate debit from credit memo line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Post a standalone payment</fullName>
+        <default>false</default>
+        <label>Post a standalone payment</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Void a standalone payment</fullName>
+        <default>false</default>
+        <label>Void a standalone payment</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Refund a payment</fullName>
+        <default>false</default>
+        <label>Refund a payment</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate refund from payment</fullName>
+        <default>false</default>
+        <label>Unallocate refund from payment</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Issue a standalone refund</fullName>
+        <default>false</default>
+        <label>Issue a standalone refund</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Void a standalone refund</fullName>
+        <default>false</default>
+        <label>Void a standalone refund</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Issue a standalone debit</fullName>
+        <default>false</default>
+        <label>Issue a standalone debit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Void a standalone debit</fullName>
+        <default>false</default>
+        <label>Void a standalone debit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Pay debit memo header</fullName>
+        <default>false</default>
+        <label>Pay debit memo header</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate payment from debit memo header</fullName>
+        <default>false</default>
+        <label>Unallocate payment from debit memo header</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Pay debit memo line</fullName>
+        <default>false</default>
+        <label>Pay debit memo line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unallocate payment from debit line</fullName>
+        <default>false</default>
+        <label>Unallocate payment from debit line</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+</StandardValueSet>
